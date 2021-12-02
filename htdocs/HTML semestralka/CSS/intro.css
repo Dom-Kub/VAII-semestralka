@@ -1,0 +1,59 @@
+.body {
+    background-image: url("backgroundAC.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+}
+.button {
+    background-image: url("../GameIntro/Group 1.png");
+    border: 2px solid #C8B7B7;
+    box-shadow: -2px 2px 3px #C8B8B8;
+    font-style: normal;
+    font-size: 12px;
+    font-family: "Segoe UI";
+    color: #707070;
+    text-align: center;
+    vertical-align: middle;
+    background-size: cover;
+}
+
+.menu {
+    background-image: url("AC2_Memory_Corridor.png");
+    background-size: cover;
+    border: 2px solid #C8B7B7;
+    box-shadow: -2px 2px 3px #C8B8B8;
+    font-style: normal;
+    font-size: 1.3vw;
+    font-family: "Segoe UI";
+    color: #707070;
+    text-align: left;
+}
+
+.text {
+    background-image: url("AC2_Memory_Corridor.png");
+    background-size: cover;
+    border: 2px solid #C8B7B7;
+    box-shadow: -2px 2px 3px #C8B8B8;
+    font-style: normal;
+    font-size: 0.885vw;
+    font-family: "Segoe UI";
+    color: #707070;
+    text-align: justify;
+}
+
+.imgText {
+    padding-top: 20px;
+    float: right;
+    width: 50%;
+    height: auto;
+}
+.download {
+    background-color: #FBFBFB;
+    border: 8px solid #C8B7B7;
+    box-shadow: -2px 2px 3px #C8B8B8;
+    text-align: center;
+    font-size: 25px;
+    display: inline-block;
+    color: #707070;
+    cursor: pointer;
+}

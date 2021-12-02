@@ -1,0 +1,60 @@
+
+.body {
+    background-image: url("backgroundAC.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+}
+
+.img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+}
+
+
+.parent-container {
+    display: flex;
+}
+.motto {
+    font-family: "Segoe UI";
+    max-font-size: 30px;
+    font-size: 1.56vw;
+    font-style: normal;
+    text-shadow: 5px 5px 5px #707070;
+    color: #707070;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.marBot {
+    margin-bottom: 10px;
+}
+
+.left {
+    margin-right: 20px;
+}
+
+.shadow {
+    box-shadow: 10px 10px black;
+}
+
+.linkStyle a:link {
+    color: #707070;
+    text-decoration: none;
+}
+
+.linkStyle a:visited {
+    color: #707070;
+    text-decoration: none;
+}
+
+.linkStyle a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+
+td:hover {
+    cursor: pointer;
+}
